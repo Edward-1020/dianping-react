@@ -1,0 +1,35 @@
+[
+    {
+        "id": "p-1",
+        "shopIds": ["s-1", "s-2", "s-3"],
+        "shop": "院落创意菜",
+        "tag": "免预约",
+        "picture": "https://p1.meituan.net/deal/0f9c31d29ece74b2b6829ccc1b24dbde80211.jpg.webp@180w_180h_1e_1c_1l_80q%7Cwatermark=0",
+        "product": "3店通用",
+        "currentPrice": 19.9,
+        "oldPrice": 48,
+        "saleDesc": "已售6034"
+    },
+    {
+        "id": "p-2",
+        "shopIds": ["s-1", "s-2", "s-3"],
+        "shop": "院落创意菜",
+        "tag": "免预约",
+        "picture": "https://p1.meituan.net/deal/0f9c31d29ece74b2b6829ccc1b24dbde80211.jpg.webp@180w_180h_1e_1c_1l_80q%7Cwatermark=0",
+        "product": "3店通用",
+        "currentPrice": 19.9,
+        "oldPrice": 48,
+        "saleDesc": "已售6034"
+    },
+    {
+        "id": "p-3",
+        "shopIds": ["s-1", "s-2", "s-3"],
+        "shop": "院落创意菜",
+        "tag": "免预约",
+        "picture": "https://p1.meituan.net/deal/0f9c31d29ece74b2b6829ccc1b24dbde80211.jpg.webp@180w_180h_1e_1c_1l_80q%7Cwatermark=0",
+        "product": "3店通用",
+        "currentPrice": 19.9,
+        "oldPrice": 48,
+        "saleDesc": "已售6034"
+    }
+]
